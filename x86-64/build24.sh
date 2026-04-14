@@ -56,9 +56,16 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 
-PACKAGES="$PACKAGES msd_lite"
-PACKAGES="$PACKAGES luci-app-msd_lite"
-PACKAGES="$PACKAGES luci-i18n-msd_lite-zh-cn"
+#MSD_Lite
+#PACKAGES="$PACKAGES msd_lite"
+#PACKAGES="$PACKAGES luci-app-msd_lite"
+#PACKAGES="$PACKAGES luci-i18n-msd_lite-zh-cn"
+
+#rtp2httpd
+PACKAGES="$PACKAGES rtp2httpd"
+PACKAGES="$PACKAGES luci-app-rtp2httpd"
+PACKAGES="$PACKAGES luci-i18n-rtp2httpd"
+
 
 # PACKAGES="$PACKAGES xray-core hysteria luci-i18n-passwall-zh-cn"
 # PACKAGES="$PACKAGES luci-app-openclash"
