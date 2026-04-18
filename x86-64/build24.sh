@@ -65,6 +65,13 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 # PACKAGES="$PACKAGES luci-app-openclash"
 # PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+PACKAGES="$PACKAGES libpython3"
+PACKAGES="$PACKAGES python3-base" 
+PACKAGES="$PACKAGES python3-light"
+PACKAGES="$PACKAGES python3-codecs"
+PACKAGES="$PACKAGES python3-email"
+PACKAGES="$PACKAGES python3-urllib"
+PACKAGES="$PACKAGES python3-cryptodome"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
